@@ -31,6 +31,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
-- Your Name
+- Sakshi Patil
 
 Feel free to customize this README file with your own project details, author information, and additional sections as needed. The goal is to provide clear and helpful information to anyone who interacts with your game.
